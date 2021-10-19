@@ -7,9 +7,11 @@ Development:
 TypeScript, ECMAScript6, JavaScript, Python,
 Frameworks: VueJs && ReactJS (ContextAPI, Redux, Hooks) Functional Components and Class Lifecycle Method</p>
 
-I'm learning at the moment **Node JS, Express Js, Rust**
+I'm learning at the moment **Node JS, **
 <br/>
 current work tools **React JS, TypeScript, Rust, NodeJS**
+<br/>
+future **data scientist**
 
 [![Linkedin Badge](https://img.shields.io/badge/-AntonioArieiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
 [![Gmail Badge](https://img.shields.io/badge/-sfgfffs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfgfffs@gmail.com)](mailto:sfgfffs@gmail.com)
