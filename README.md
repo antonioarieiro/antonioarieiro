@@ -11,10 +11,11 @@ I'm learning at the moment **Node JS, **
 <br/>
 current work tools **React JS, TypeScript, Rust, NodeJS**
 <br/>
-future **data scientist**
 
 [![Linkedin Badge](https://img.shields.io/badge/-AntonioArieiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
 [![Gmail Badge](https://img.shields.io/badge/-sfgfffs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfgfffs@gmail.com)](mailto:sfgfffs@gmail.com)
+
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="400px" />
 
 ## 🚀💻 Technologies & Tools
 
