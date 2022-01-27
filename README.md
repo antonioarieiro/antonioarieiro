@@ -19,6 +19,7 @@ current work tools **JavaSCript, TypeScript, React, Rust**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Rust](https://img.shields.io/badge/-Rust-181717?style=flat-square&logo=rust)
+![Solidity](https://img.shields.io/badge/-Solidity-red?style=flat-square&logo=solidity)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
