@@ -15,27 +15,32 @@ current work tools **JavaSCript, TypeScript, React, Solidity**
 [![Linkedin Badge](https://img.shields.io/badge/-AntonioArieiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
 [![Gmail Badge](https://img.shields.io/badge/-sfgfffs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfgfffs@gmail.com)](mailto:sfgfffs@gmail.com)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Rust](https://img.shields.io/badge/-Rust-181717?style=flat-square&logo=rust)
-![Solidity](https://img.shields.io/badge/-Solidity-red?style=flat-square&logo=solidity)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-![SCSS](https://img.shields.io/badge/SCSS-000000?style=flat&logo=sass)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<div align="center">
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0769AD?style=for-the-badge&logo=TypeScript&logoColor=black)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-red?style=for-the-badge&logo=solidity)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="400px" />
-
-## 🚀💻 Technologies & Tools
 
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=antonioarieiro&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
+<a href="https://github.com/antonioarieiro">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=antonioarieiro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ 
+
+  <img align="center" width="148" height="180" src="https://c.tenor.com/-chShW7Y1p8AAAAC/server-is-for-js-javascript.gif">
  
  
+</div>
