@@ -40,7 +40,7 @@ current work tools **JavaSCript, TypeScript, React, Solidity**
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=antonioarieiro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
  
 
-  <img align="center" width="148" height="180" src="https://c.tenor.com/-chShW7Y1p8AAAAC/server-is-for-js-javascript.gif">
+  <img align="center" width="148" height="180" src="https://c.tenor.com/Lvhj4QVL8-4AAAAC/server-is-for-javascript.gif">
  
  
 </div>
