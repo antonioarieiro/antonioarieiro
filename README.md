@@ -4,8 +4,8 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Antonio</h1>
 <p align = "justify">Front-end Developer, Passionate about Technology 
 Development:
-TypeScript, ECMAScript6, JavaScript, Python,
-Frameworks: VueJs && ReactJS (ContextAPI, Redux, Hooks) Functional Components and Class Lifecycle Method</p>
+TypeScript, ECMAScript6, JavaScript, Python,Node.js
+Frameworks:  ReactJS, AngularJs, VueJs</p>
 
 I'm learning at the moment **Node JS, RUST **
 <br/>
