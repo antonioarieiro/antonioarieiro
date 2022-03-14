@@ -9,7 +9,7 @@ Frameworks:  ReactJS, AngularJs, VueJs</p>
 
 I'm learning at the moment **Node JS, RUST **
 <br/>
-current work tools **JavaSCript, TypeScript, React, Solidity**
+current work tools **JavaScript, TypeScript, React, Solidity**
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AntonioArieiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
