@@ -16,6 +16,7 @@ current work tools **Solidity, TypeScript, JavaSript, React**
 <div align="center">
   
 ![Solidity](https://img.shields.io/badge/-Solidity-red?style=for-the-badge&logo=solidity)
+![Javascript](https://img.shields.io/badge/web3.js-white?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
@@ -24,9 +25,6 @@ current work tools **Solidity, TypeScript, JavaSript, React**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="400px" />
 
 
 ## ⚡ GitHub Stats
