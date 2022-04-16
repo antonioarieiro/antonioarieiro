@@ -18,7 +18,6 @@ current work tools **Solidity, TypeScript, JavaSript, React**
 ![Solidity](https://img.shields.io/badge/-Solidity-red?style=for-the-badge&logo=solidity)
 ![Javascript](https://img.shields.io/badge/web3.js-white?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=35495E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0769AD?style=for-the-badge&logo=TypeScript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
