@@ -11,7 +11,8 @@ current work tools **Solidity, TypeScript, JavaScript, React**
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AntonioArieiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
-[![Gmail Badge](https://img.shields.io/badge/-sfgfffs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfgfffs@gmail.com)](mailto:sfgfffs@gmail.com)
+
+
 
 <div align="center">
   
