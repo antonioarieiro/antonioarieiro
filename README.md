@@ -4,10 +4,10 @@
 <h1 align = "justify"> Hi, I am Antonio</h1>
 <p align = "justify">
 Development:
- TypeScript, JavaScript, Python,Node.js
+ TypeScript, JavaScript, PHP, Angular & React
 
 <br/>
-current work tools **Node.js, TypeScript, JavaScript, React, Angular**
+current work tools **TypeScript, JavaScript, PHP, React, Angular**
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AntonioArieiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
