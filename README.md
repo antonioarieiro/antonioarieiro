@@ -27,5 +27,8 @@ current work tools **TypeScript, JavaScript, PHP, React, Angular**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+[![Snake Graph](https://raw.githubusercontent.com/sitiom/sitiom/assets/github-snake.svg)](https://github.com/antonioarieiro)
+
  
 </div>
