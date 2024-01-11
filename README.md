@@ -1,14 +1,14 @@
 
 
-
-<h1 align = "justify"> Hi, I am Antonio</h1>
+<h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Antonio+Arieiro+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;" alt="melvincwng's banner" />
+  </a>
+</h2>
 <p align = "justify">
-Development:
- TypeScript, JavaScript, PHP, Angular & React
 
-<br/>
-current work tools **TypeScript, JavaScript, PHP, React, Angular**
-<br/>
+
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-AntonioArieiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
 
